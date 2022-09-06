@@ -1,0 +1,8 @@
+Name                 Depth      Confidence 
+chair 1              4.14       0.44       
+chair 2              5.32       0.45       
+chair 3              2.49       0.53       
+chair 4              4.63       0.67       
+chair 5              1.70       0.71       
+chair 6              2.08       0.75       
+dining table 1       1.85       0.46       

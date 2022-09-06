@@ -1,0 +1,6 @@
+Name                 Depth      Confidence 
+bottle 1             1.78       0.28       
+bottle 2             1.74       0.30       
+chair 1              4.93       0.28       
+chair 2              1.67       0.39       
+chair 3              4.57       0.61       

@@ -1,0 +1,6 @@
+Name                 Depth      Confidence 
+bottle 1             2.21       0.49       
+bottle 2             2.19       0.66       
+bowl 1               1.95       0.58       
+microwave 1          2.06       0.81       
+refrigerator 1       1.29       0.83       

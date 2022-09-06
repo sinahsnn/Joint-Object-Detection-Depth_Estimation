@@ -1,0 +1,7 @@
+Name                 Depth      Confidence 
+clock 1              9.17       0.60       
+laptop 1             5.28       0.36       
+person 1             9.39       0.29       
+person 2             9.24       0.32       
+person 3             7.53       0.33       
+tv 1                 5.28       0.38       

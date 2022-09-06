@@ -1,0 +1,7 @@
+Name                 Depth      Confidence 
+book 1               2.06       0.42       
+book 2               2.14       0.53       
+potted plant 3       2.02       0.28       
+potted plant 4       2.14       0.74       
+potted plant 5       2.16       0.76       
+potted plant 6       2.19       0.81       

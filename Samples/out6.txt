@@ -1,0 +1,3 @@
+Name                 Depth      Confidence 
+bed 1                2.04       0.80       
+bottle 1             3.77       0.44       

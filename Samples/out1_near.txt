@@ -1,0 +1,5 @@
+Name                 Depth      Confidence 
+person 1             1.89       0.40       
+potted plant 5       1.68       0.75       
+potted plant 6       1.91       0.86       
+vase 1               1.92       0.29       
